@@ -1,10 +1,10 @@
-import { Header } from "../src/components/header"
-import { HeroSection } from "../src/components/hero-section"
-import { ProcessSteps } from "../src/components/steps"
-import { StatsSection } from "../src/components/stats"
-import { ReviewsSection } from "../src/components/reviews"
-import { CTASection } from "../src/components/cta-section"
-import { Footer } from "../src/components/footer"
+import { Header } from "@/components/header"
+import { HeroSection } from "@/components/hero-section"
+import { ProcessSteps } from "@/components/steps"
+import { StatsSection } from "@/components/stats"
+import { ReviewsSection } from "@/components/reviews"
+import { CTASection } from "@/components/cta-section"
+import { Footer } from "@/components/footer"
 
 export default function FitnessCoachLanding() {
   return (
